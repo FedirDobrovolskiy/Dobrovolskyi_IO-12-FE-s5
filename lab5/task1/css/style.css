@@ -1,0 +1,40 @@
+h2 {
+    text-align: center;
+    }
+    input[type='text'] {
+    border: 1px gray solid;
+    padding: 10px;
+    margin: 5px 0;
+    width: 100%;
+    box-sizing: border-box;
+    border-radius: 10px;
+    }
+    fieldset {
+    width: 300px;
+    margin: 0 auto;
+    border-radius: 10px;
+    }
+    button {
+    padding: 10px;
+    margin: 5px 0;
+    width: 100%;
+    background-color: white;
+    border-width: 1px;
+    border-radius: 10px;
+    }
+    button:hover {
+    background-color: rgb(241, 238, 238);
+    }
+    form {
+    display: flex;
+    }
+    div {
+    width: max-content;
+    margin: 0 auto;
+    padding:0 40px ;
+    }
+    #container {
+    display: flex;
+    flex-direction: row;
+    }
+    
